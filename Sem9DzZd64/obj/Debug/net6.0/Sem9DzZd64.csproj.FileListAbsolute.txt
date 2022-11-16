@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\bin\Debug\net6.0\Sem9DzZd64.exe
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\bin\Debug\net6.0\Sem9DzZd64.deps.json
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\bin\Debug\net6.0\Sem9DzZd64.runtimeconfig.json
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\bin\Debug\net6.0\Sem9DzZd64.dll
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\bin\Debug\net6.0\Sem9DzZd64.pdb
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.dll
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\refint\Sem9DzZd64.dll
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.pdb
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\Sem9DzZd64.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DZ_Sem9\Sem9DzZd64\obj\Debug\net6.0\ref\Sem9DzZd64.dll
